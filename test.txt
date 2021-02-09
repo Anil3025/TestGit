@@ -1,1 +1,6 @@
-this is my foirst text file to upload to git
+this is my first text file to upload to git
+
+now making changes after commiting once 
+===================================
+this is my first text file to upload to gitthis is my first text file to upload to gitthis is my first text file to upload to gitthis is my first text file to upload to gitthis is my first text file to upload to gitthis is my first text file to upload to gitthis is my first text file to upload to gitthis is my first text file to upload to gitthis is my first text file to upload to gitthis is my first text file to upload to gitthis is my first text file to upload to git
+
